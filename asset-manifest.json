@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Event-Calendar/static/css/main.f4410ccf.chunk.css",
+    "main.js": "/Event-Calendar/static/js/main.7369f7f9.chunk.js",
+    "main.js.map": "/Event-Calendar/static/js/main.7369f7f9.chunk.js.map",
+    "runtime-main.js": "/Event-Calendar/static/js/runtime-main.003cb4ab.js",
+    "runtime-main.js.map": "/Event-Calendar/static/js/runtime-main.003cb4ab.js.map",
+    "static/js/2.b9828ef1.chunk.js": "/Event-Calendar/static/js/2.b9828ef1.chunk.js",
+    "static/js/2.b9828ef1.chunk.js.map": "/Event-Calendar/static/js/2.b9828ef1.chunk.js.map",
+    "static/js/3.4b00bf39.chunk.js": "/Event-Calendar/static/js/3.4b00bf39.chunk.js",
+    "static/js/3.4b00bf39.chunk.js.map": "/Event-Calendar/static/js/3.4b00bf39.chunk.js.map",
+    "index.html": "/Event-Calendar/index.html",
+    "static/css/main.f4410ccf.chunk.css.map": "/Event-Calendar/static/css/main.f4410ccf.chunk.css.map",
+    "static/js/2.b9828ef1.chunk.js.LICENSE.txt": "/Event-Calendar/static/js/2.b9828ef1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.003cb4ab.js",
+    "static/js/2.b9828ef1.chunk.js",
+    "static/css/main.f4410ccf.chunk.css",
+    "static/js/main.7369f7f9.chunk.js"
+  ]
+}
